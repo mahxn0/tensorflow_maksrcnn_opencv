@@ -1,0 +1,59 @@
+item{
+    id:1
+    name:'RoadMarking_LongSolidLine'
+}
+
+item{
+    id:2
+    name:'RoadMarking_DottedLine'
+}
+
+item{
+    id:3
+    name:'RoadMarking_ArrowLine'
+}
+
+item{
+    id:4
+    name:'RoadMarking_EntranceLine'
+}
+
+item{
+    id:5
+    name:'RoadMarking_TransverseSolidLine'
+}
+
+item{
+    id:6
+    name:'RoadMarking_Sidewalk'
+}
+
+item{
+    id:7
+    name:'RoadMarking_DottedLineChangXi'
+}
+
+item{
+    id:8
+    name:'mark'
+}
+
+item{
+    id:9
+    name:'RoadMarking_MeshLine'
+}
+
+item{
+    id:10
+    name:'RoadMarking_DecelerationHeng'
+}
+
+item{
+    id:11
+    name:'RoadMarking_DecelerationZong'
+}
+
+item{
+    id:12
+    name:'RoadMarking_DottedLineDuanXi'
+}
