@@ -49,7 +49,7 @@ python tf_text_graph_rcnn.py
 
 ![Image text](https://github.com/mahxn0/tensorflow_maksrcnn_opencv/blob/master/data/1.jpg)
 
-![Image text](https://github.com/mahxn0/tensorflow_maksrcnn_opencv/blob/master/data/1.jpg)
+![Image text](https://github.com/mahxn0/tensorflow_maksrcnn_opencv/blob/master/data/2.jpg)
 
 
-![Image text](https://github.com/mahxn0/tensorflow_maksrcnn_opencv/blob/master/data/1.jpg)
+![Image text](https://github.com/mahxn0/tensorflow_maksrcnn_opencv/blob/master/data/3.jpg)
